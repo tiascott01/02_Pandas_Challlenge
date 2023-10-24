@@ -24,5 +24,7 @@ You can use this file to analyze the data in the corresponding resource CSV.
 1. Office Help, Appending Data Frames - Kristina D'Alessio
 
 2. Index to zero - Davin Frankosky
+   
+3. General - ChatGpt.com
 
  
